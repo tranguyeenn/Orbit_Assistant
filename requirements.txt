@@ -1,0 +1,6 @@
+flask
+requests
+speechrecognition
+pyttsx3
+schedule
+vosk
